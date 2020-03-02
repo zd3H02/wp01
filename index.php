@@ -1,6 +1,5 @@
 
 <?php get_header() ?>
-<p>かきくけこ</p>
   <!-- <?php var_dump($wp_query); ?> -->
 
   <?php if (have_posts()) : ?>
